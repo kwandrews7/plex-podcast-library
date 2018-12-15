@@ -1,5 +1,9 @@
 {
-  "podcastFeelUrls": [
-    
+  "libraryPath": "D:/Podcasts/",
+  "podcasts": [
+    {
+      "name": "Planet Money",
+      "url": "https://www.npr.org/rss/podcast.php?id=510289"
+    }
   ]
 }

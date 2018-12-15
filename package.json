@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/kwandrews7/plex-podcast-library#readme",
   "dependencies": {
+    "request": "^2.88.0",
     "winston": "^3.1.0"
   }
 }
