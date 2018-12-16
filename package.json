@@ -4,6 +4,7 @@
   "description": "A NodeJS utility to archive podcasts into a Personal Media based Music library on Plex.",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -23,7 +24,9 @@
   },
   "homepage": "https://github.com/kwandrews7/plex-podcast-library#readme",
   "dependencies": {
+    "lodash": "^4.17.11",
     "request": "^2.88.0",
-    "winston": "^3.1.0"
+    "winston": "^3.1.0",
+    "xml2js": "^0.4.19"
   }
 }

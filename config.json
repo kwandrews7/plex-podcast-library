@@ -1,9 +1,18 @@
 {
-  "libraryPath": "D:/Podcasts/",
+  "libraryPath": "/Users/kyleandrews/Documents/GitHub/plex-podcast-library/logs/",
+  "libraryPath1": "D:/Podcasts/",
   "podcasts": [
     {
       "name": "Planet Money",
       "url": "https://www.npr.org/rss/podcast.php?id=510289"
+    },
+    {
+      "name": "The Way I Heard It",
+      "url": "http://thewayiheardit.rsvmedia.com/rss/"
+    },
+    {
+      "name": "This American Life",
+      "url": "https://www.thisamericanlife.org/podcast/rss.xml"
     }
   ]
 }
